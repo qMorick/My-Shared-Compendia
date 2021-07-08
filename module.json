@@ -1,6 +1,6 @@
 {   
-  "name": "My-Shared-Compendia",   
-  "title": "My Shared Compendia",   
+  "name": "DnDno-Shared-Compendia",   
+  "title": "DnDno Shared Compendia",   
   "description": "Sharing data across worlds via Compendia as explained by u/solfolango on r/FoundryVTT",   
   "author": "sts",
   "version": "1.0.0",
@@ -8,65 +8,186 @@
   "compatibleCoreVersion":"3.2.1",
   "packs": [
       {
+        "name": "1 level",
+        "label": "1 уровень",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "2 level",
+        "label": "2 уровень",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "3 level",
+        "label": "3 уровень",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "4 level",
+        "label": "4 уровень",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "5 level",
+        "label": "5 уровень",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "6 level",
+        "label": "6 уровень",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "7 level",
+        "label": "7 уровень",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "8 level",
+        "label": "8 уровень",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "9 level",
+        "label": "9 уровень",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "0 level",
+        "label": "Заговоры (0 уровень)",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "equipment",
+        "label": "Снаряжение",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "armor",
+        "label": "Доспехи и щиты",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "weapons",
+        "label": "Оружие",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "feats",
+        "label": "Черты",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "flaws",
+        "label": "Пороки",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "styles",
+        "label": "Боевые стили",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "maneuver",
+        "label": "Приёмы",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
+        "name": "invocations",
+        "label": "Воззвания",
+        "path": "packs/items.db",
+      	"module": "DnDno-Shared-Compendia",
+        "entity": "Item"
+      },
+      {
         "name": "actors",
         "label": "My actors",
         "path": "packs/actors.db",
-      	"module": "My-Shared-Compendia",
+      	"module": "DnDno-Shared-Compendia",
         "entity": "Actor"
       },
       {
         "name": "monsters",
         "label": "My Monsters",
         "path": "packs/monsters.db",
-      	"module": "My-Shared-Compendia",
+      	"module": "DnDno-Shared-Compendia",
         "entity": "Actor"
       },
       {
         "name": "items",
         "label": "My Items",
         "path": "packs/items.db",
-      	"module": "My-Shared-Compendia",
+      	"module": "DnDno-Shared-Compendia",
         "entity": "Item"
       },
       {
         "name": "scenes",
         "label": "My Scenes",
         "path": "packs/scenes.db",
-      	"module": "My-Shared-Compendia",
+      	"module": "DnDno-Shared-Compendia",
         "entity": "Scene"
       },
       {
         "name": "JournalEntrys",
         "label": "My Journal Entrys",
         "path": "packs/journalentry.db",
-      	"module": "My-Shared-Compendia",
+      	"module": "DnDno-Shared-Compendia",
         "entity": "JournalEntry"
       },
       {
         "name": "macros",
         "label": "My Macros",
         "path": "packs/macro.db",
-      	"module": "My-Shared-Compendia",
+      	"module": "DnDno-Shared-Compendia",
         "entity": "Macro"
       },
       {
         "name": "rolltable",
         "label": "My Roll Tables",
         "path": "packs/rolltable.db",
-      	"module": "My-Shared-Compendia",
+      	"module": "DnDno-Shared-Compendia",
         "entity": "RollTable"
       },
       {
         "name": "playlist",
         "label": "My Playlist",
         "path": "packs/playlist.db",
-      	"module": "My-Shared-Compendia",
+      	"module": "DnDno-Shared-Compendia",
         "entity": "Playlist"
       }
     ],
-    
-  "download": "https://github.com/stschoelzel/My-Shared-Compendia/releases/download/1.0.0/My-Shared-Compendia.zip",
-  "manifest": "https://github.com/stschoelzel/My-Shared-Compendia/releases/download/1.0.0/module.json",
-
-  "url": "https://github.com/stschoelzel/My-Shared-Compendia"
 }
