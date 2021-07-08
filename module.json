@@ -192,7 +192,7 @@
     ],
     
   "download": "https://github.com/qMorick/My-Shared-Compendia/releases/download/1.0.0/My-Shared-Compendia.zip",
-  "manifest": "https://github.com/qMorick/My-Shared-Compendia/blob/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/qMorick/My-Shared-Compendia/blob/main/module.json",
 
   "url": "https://github.com/qMorick/My-Shared-Compendia"
 }
